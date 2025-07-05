@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammadMuneebMubashar
-- 👀 Mixture of coding and tea is umahhhhh.
+- 👀 Mixture of coding and tea is wowwww.
 - 🌱 I’m currently learning python
 - 💞️ I wanto invent something new and powerful 
 - 📫 linkedin : muhammad-muneeb-mubashar 
