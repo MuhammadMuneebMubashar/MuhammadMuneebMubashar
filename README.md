@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadMuneebMubashar
 - 👀 Mixture of coding and tea is wowwww.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and java
 - 💞️ I wanto invent something new and powerful 
 - 📫 linkedin : muhammad-muneeb-mubashar 
 - 😄 Pronouns: he / him
