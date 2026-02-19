@@ -19,26 +19,7 @@ I enjoy learning deeply, solving problems, and designing systems that feel like 
 🔐 Authentication & Security concepts
 
 🗂️ Building real-world console & future GUI apps
-
-🛠️ Tech Stack
-
-Languages
-
-Java
-
-Python
-
-Core Skills
-
-Object Oriented Programming
-
-File Handling & Serialization
-
-Authentication Systems
-
-CLI Application Design
-
-Git & GitHub
+🔗 LinkedIn: muhammad-muneeb-mubashar
 
 <!---
 MuhammadMuneebMubashar/MuhammadMuneebMubashar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
