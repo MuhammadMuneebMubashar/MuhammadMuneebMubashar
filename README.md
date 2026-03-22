@@ -19,36 +19,38 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class MuneebMubashar {
-
-    String name        = "Muhammad Muneeb Mubashar";
-    String university  = "University of Central Punjab — BSE, Semester 3";
-    String location    = "Lahore, Pakistan 🇵🇰";
-    String fuel        = "Code + Chai ☕";
-
-    String[] currentFocus = {
-        "Advanced Java (OOP, File Handling, System Design)",
-        "Python Fundamentals & Automation",
-        "Authentication & Security Concepts",
-        "Building portfolio-ready real-world systems"
-    };
-
-    String[] careerGoals = {
-        "Full-Stack Developer",
-        "Backend Engineer",
-        "AI Engineer",
-        "Future Tech Entrepreneur 🚀"
-    };
-
-    String[] targetMarkets = { "Pakistan", "UAE", "USA" };
-
-    String motto() {
-        return "Build real things. Solve real problems. Ship real products.";
-    }
-}
-```
-
+<div align="center">
+🎓 BSSE Student @ University of Central Punjab, Lahore 🇵🇰
+💻 Passionate Java and Python Developer building real-world systems, not just assignments
+🤖 Future AI & Full-Stack Engineer — targeting high-impact roles in 🇵🇰 Pakistan · 🇦🇪 UAE · 🇺🇸 USA
+☕ Powered by code + chai — I learn deeply, ship consistently, and think like a product builder
+</div>
+<br/>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🎯-Career_Goals-302b63?style=for-the-badge"/><br/><br/>
+      Full-Stack Developer<br/>
+      Backend Engineer<br/>
+      AI Engineer<br/>
+      Tech Entrepreneur 🚀
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/📚-Currently_Learning-1a1a2e?style=for-the-badge"/><br/><br/>
+      Advanced Java & OOP<br/>
+      Python Automation<br/>
+      Auth & Security<br/>
+      System Design
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/🌍-Target_Markets-24243e?style=for-the-badge"/><br/><br/>
+      🇵🇰 Pakistan<br/>
+      🇦🇪 UAE<br/>
+      🇺🇸 USA<br/>
+      Remote / Hybrid
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -59,14 +61,12 @@ public class MuneebMubashar {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/8086_Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Tools & Environments
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Currently Exploring
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_(Soon)-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -84,9 +84,9 @@ public class MuneebMubashar {
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | 🔐 [**Java Form Validator**](https://github.com/MuhammadMuneebMubashar/Validators) | Production-grade input validation — email, phone & name with real regex logic | Java, OOP | ✅ Complete |
-| 🎮 **Hangman Game** | Custom board size, player vs computer mode, full win-checking logic | Java | ✅ Complete |
-| ⭕ **Tic-Tac-Toe** | Classic game with clean logic and modular design | Java | ✅ Complete |
-| 🗂️ **Student Management System** | Full CRUD operations, file-based persistence | Java | ✅ Complete |
+| 🎮 [**Hangman Game**](https://github.com/MuhammadMuneebMubashar/Hang-man-game.git) | Custom board size, player vs computer mode, full win-checking logic | Java | ✅ Complete |
+| ⭕ [**Tic-Tac-Toe**](https://github.com/MuhammadMuneebMubashar/tic-tac-toe.git) | Classic game with clean logic and modular design | Java | ✅ Complete |
+| 🗂️ [**Student Management System**](https://github.com/MuhammadMuneebMubashar/StudentManagementSystem.git) | Full CRUD operations, file-based persistence | Java | ✅ Complete |
 | 🤖 **AI Automation Pipeline** | LinkedIn post automation via OAuth2, RSS, cron jobs | Python | 🔨 In Progress |
 
 </div>
