@@ -1,173 +1,109 @@
-<div align="center">
+<h1 align="center">Muhammad Muneeb Mubashar</h1>
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Muneeb%20Mubashar&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20%E2%80%94%20Building%20Real%20Products%2C%20Not%20Just%20Code&descAlignY=60&descSize=14&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%2B+Software+Engineer;Document+AI%2C+automation+and+backend+systems;Turning+ideas+into+intelligent+systems" alt="AI and Software Engineer building document AI, automation, and backend systems" />
+</p>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=☕+Java+Developer+%7C+Python+Learner;🚀+Future+Full-Stack+%26+AI+Engineer;🔨+Building+Portfolio+Projects+That+Matter;🌐+Targeting+UAE+%26+USA+Tech+Markets)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--muneeb--mubashar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muneeb-mubashar)
-[![GitHub](https://img.shields.io/badge/GitHub-MuhammadMuneebMubashar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMuneebMubashar)
-[![Location](https://img.shields.io/badge/📍_Lahore,_Pakistan-302b63?style=for-the-badge)](https://en.wikipedia.org/wiki/Lahore)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-muneeb-mubashar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://github.com/MuhammadMuneebMubashar"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square" alt="GitHub" /></a>
+  <a href="mailto:REPLACE_WITH_YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-2F81F7?style=flat-square" alt="Email" /></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+I build tools that turn messy input into something a machine can actually use: documents into structured Markdown, manual business processes into automated workflows, loose requirements into typed and tested code.
 
-<div align="center">
-🎓 BSSE Student @ University of Central Punjab, Lahore 🇵🇰
-💻 Passionate Java and Python Developer building real-world systems, not just assignments
-🤖 Future AI & Full-Stack Engineer — targeting high-impact roles in 🇵🇰 Pakistan · 🇦🇪 UAE · 🇺🇸 USA
-☕ Powered by code + chai — I learn deeply, ship consistently, and think like a product builder
-</div>
-<br/>
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🎯-Career_Goals-302b63?style=for-the-badge"/><br/><br/>
-      Full-Stack Developer<br/>
-      Backend Engineer<br/>
-      AI Engineer<br/>
-      Tech Entrepreneur 🚀
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/📚-Currently_Learning-1a1a2e?style=for-the-badge"/><br/><br/>
-      Advanced Java & OOP<br/>
-      Python Automation<br/>
-      Auth & Security<br/>
-      System Design
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🌍-Target_Markets-24243e?style=for-the-badge"/><br/><br/>
-      🇵🇰 Pakistan<br/>
-      🇦🇪 UAE<br/>
-      🇺🇸 USA<br/>
-      Remote / Hybrid
-    </td>
-  </tr>
-</table>
----
+Most of my work sits at the seam between traditional software engineering and AI. A deterministic path handles the common case quickly and cheaply, and a model enters the loop only where deterministic logic runs out. I write Python and Java for backend and systems work and TypeScript for the web layer, and I care more about error handling, structure, and behaviour under failure than about how a demo looks on the happy path.
 
-## 🛠️ Tech Stack & Tools
+Currently going deep on production Python backends, retrieval systems, and agent architectures.
 
-<div align="center">
+### Selected work
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/8086_Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+**[get-your-md](https://github.com/MuhammadMuneebMubashar/get-your-md)** · [Live demo](https://get-your-md.ai.studio/)
 
-### Tools & Environments
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Converts documents and images into clean Markdown. A rule-based parser handles common formats entirely client-side, so typical files never leave the browser, and a multimodal vision model picks up the scans and screenshots that rules cannot read.
 
-### Currently Exploring
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_(Soon)-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML_(Learning)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+<sub><code>TypeScript</code> · <code>Multimodal vision</code> · <code>Client-side parsing</code></sub>
 
-</div>
+**[universal-markdown-converter](https://github.com/MuhammadMuneebMubashar/universal-markdown-converter)**
 
----
+An interactive web app pairing an AI-assisted Markdown converter with a live editor and 3D coordinate-transformation visualisers. Rebuilt around a proper service layer, server-side key handling, and typed boundaries between the UI and the model.
 
-## 🚀 Featured Projects
+<sub><code>React</code> · <code>TypeScript</code> · <code>Express</code> · <code>Gemini API</code></sub>
 
-<div align="center">
+**[n8n-production-workflows](https://github.com/MuhammadMuneebMubashar/n8n-production-workflows)**
 
-| Project | Description | Tech | Status |
-|---|---|---|---|
-| 🔐 [**Java Form Validator**](https://github.com/MuhammadMuneebMubashar/Validators) | Production-grade input validation — email, phone & name with real regex logic | Java, OOP | ✅ Complete |
-| 🎮 [**Hangman Game**](https://github.com/MuhammadMuneebMubashar/Hang-man-game.git) | Custom board size, player vs computer mode, full win-checking logic | Java | ✅ Complete |
-| ⭕ [**Tic-Tac-Toe**](https://github.com/MuhammadMuneebMubashar/tic-tac-toe.git) | Classic game with clean logic and modular design | Java | ✅ Complete |
-| 🗂️ [**Student Management System**](https://github.com/MuhammadMuneebMubashar/StudentManagementSystem.git) | Full CRUD operations, file-based persistence | Java | ✅ Complete |
-| 🤖 **AI Automation Pipeline** | LinkedIn post automation via OAuth2, RSS, cron jobs | Python | 🔨 In Progress |
+A curated set of n8n workflows for AI integration, lead generation, social automation, and business operations. Exported JSON plus the setup notes needed to actually deploy them rather than just read them.
 
-</div>
+<sub><code>n8n</code> · <code>Workflow automation</code> · <code>API integration</code></sub>
 
----
+**[Validators](https://github.com/MuhammadMuneebMubashar/Validators)**
 
-## 📊 GitHub Stats
+A dependency-free Java validation library covering RFC-compliant email checking, international phone numbers, and name-field rules. Built to be extended, because every real form eventually needs a rule the library did not ship with.
 
-<div align="center">
+<sub><code>Java</code> · <code>Library design</code> · <code>Zero dependencies</code></sub>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadMuneebMubashar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuneebMubashar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+**[directorySorter](https://github.com/MuhammadMuneebMubashar/directorySorter)**
 
-<br/>
+A file-organisation tool built defensively. The interesting part is not the sorting but the failure handling: permission errors, name collisions, and interrupted runs are all meant to leave your files exactly where they started.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadMuneebMubashar&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<sub><code>Python</code> · <code>Filesystem</code> · <code>Defensive error handling</code></sub>
 
-</div>
+<details>
+<summary>More projects</summary>
 
----
+<br>
 
-## 🗺️ Engineering Roadmap
+- **[TICTACTOE_UPDATED_OOP_VERSION](https://github.com/MuhammadMuneebMubashar/TICTACTOE_UPDATED_OOP_VERSION)** — Java Tic-Tac-Toe built on SOLID principles, with an unbeatable Minimax opponent and Human, AI, and AI-vs-AI modes.
+- **[AutoCLRBin](https://github.com/MuhammadMuneebMubashar/AutoCLRBin)** — Python utility that clears the Windows Recycle Bin through the Win32 Shell API, silently and without dialogs.
+- **[StudentManagementSystem_OOP](https://github.com/MuhammadMuneebMubashar/StudentManagementSystem_OOP)** — Java CRUD system with role-based access, automatic grading, and serialization-backed persistence.
+- **[LibraryManagementSystem](https://github.com/MuhammadMuneebMubashar/LibraryManagementSystem)** — Java library system with issue and return flows, search, and binary-file persistence across sessions.
+- **[QRCODEGENERATOR](https://github.com/MuhammadMuneebMubashar/QRCODEGENERATOR)** — Python CLI that turns URLs or text into QR images with timestamped output.
+- **[dev-portfolio](https://github.com/MuhammadMuneebMubashar/dev-portfolio)** — My personal portfolio site.
 
-```
-2024 ──────────────────────────────────────────────────────────── Future
+</details>
 
-[✅ Java Core]──[✅ OOP & Projects]──[🔄 Python]──[⏳ DSA]──[⏳ Spring Boot]
-                                                              │
-                                          [⏳ REST APIs]──[⏳ Databases]
-                                                              │
-                                              [⏳ Full-Stack]──[⏳ AI/ML]
-                                                                    │
-                                                    [🎯 International SWE Role]
-                                                                    │
-                                                         [🚀 Own Tech Business]
-```
+### Tech
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI and automation**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Web and data**
+
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MuhammadMuneebMubashar&show_icons=true&hide_border=true&hide=issues&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7&text_color=7D8590" alt="GitHub statistics for MuhammadMuneebMubashar" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMuneebMubashar&layout=compact&hide_border=true&langs_count=6&exclude_repo=Java&bg_color=00000000&title_color=2F81F7&text_color=7D8590" alt="Most used languages" />
+</p>
+
+<details>
+<summary>Contribution graph</summary>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMuneebMubashar&bg_color=00000000&color=7D8590&line=2F81F7&point=2F81F7&area=true&hide_border=true" alt="Contribution activity over the past year" />
+
+</details>
 
 ---
 
-## 🧠 Currently Leveling Up
-
-<div align="center">
-
-| Domain | Topic | Progress |
-|---|---|---|
-| ☕ Java | Advanced OOP, File I/O, System Design | `████████░░` 80% |
-| 🐍 Python | Fundamentals, Automation, Scripting | `████████░░` 80% |  
-| 🔒 Security | Auth, JWT, Encryption Concepts | `████░░░░░░` 40% |
-| 🧮 CS Theory | Data Structures & Algorithms | `█████░░░░░` 50% |
-| 🤖 AI/ML | Foundations, Automation Pipelines | `███░░░░░░░` 30% |
-
-</div>
-
----
-
-## 💡 Philosophy
-
-<div align="center">
-
-> *"I don't build assignments. I build products."*
-
-> *"Every line of code is a step closer to the engineer I'm becoming."*
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-If you're a **recruiter**, **developer**, or **builder** — let's connect.  
-I'm always open to collaboration, mentorship, and opportunities.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muneeb-mubashar)
-[![GitHub](https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadMuneebMubashar)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-</div>
+<p align="center">
+  <sub>Open to collaboration on AI tooling and automation. Reach me on <a href="https://www.linkedin.com/in/muhammad-muneeb-mubashar/">LinkedIn</a>.</sub>
+</p>
