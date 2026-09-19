@@ -105,5 +105,5 @@ A file-organisation tool built defensively. The interesting part is not the sort
 ---
 
 <p align="center">
-  <sub>Open to collaboration on AI tooling and automation. Reach me on <a href="https://www.linkedin.com/in/muhammad-muneeb-mubashar/">LinkedIn</a>.</sub>
+  <sub>Open to collaboration on AI tooling and automation. Reach me on <a href="https://www.linkedin.com/in/muhammadmuneebmubashar/">LinkedIn</a>.</sub>
 </p>
